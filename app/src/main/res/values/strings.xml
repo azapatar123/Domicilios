@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Domicilios</string>
+
+    <string-array name="perfiles">
+        <item>Operador</item>
+        <item>Mensajero</item>
+        <item>Cliente</item>
+    </string-array>
+
+    <string-array name="tipos_vehiculo">
+        <item>Moto</item>
+        <item>Carro</item>
+        <item>Bicicleta</item>
+    </string-array>
+</resources>
